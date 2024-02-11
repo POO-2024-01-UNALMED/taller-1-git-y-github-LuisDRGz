@@ -1,3 +1,1 @@
-Luis David Ramirez Gonzalez
-21
-Aprender los fundamentos de POO, en entorno java y python, viendo sus ventajas y desventajas.
+Se puede hacer un commit de la carpeta porque esta al contener el archivo de respuesta, dejo de estar vacia. Representando un cambio real al repositorio.
