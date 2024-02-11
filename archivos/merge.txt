@@ -1,1 +1,2 @@
-Se puede hacer un commit de la carpeta porque esta al contener el archivo de respuesta, dejo de estar vacia. Representando un cambio real al repositorio.
+Luis David Ramirez Gonzalez
+Mis espectativas con el curso es aprender los fundamentos de POO, usando las herramientas de java y python, aprendiendo sus ventajas y desventajas.
